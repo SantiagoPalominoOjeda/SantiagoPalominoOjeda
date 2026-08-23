@@ -20,7 +20,7 @@ using containers, Infrastructure as Code and cloud-native technologies.
 ## 🛠️ Technologies
 
 ### Languages
-Python | TypeScript | Java
+Python | TypeScript | Java | C++ | C 
 
 ### Cloud & DevOps
 OCI | Docker | Linux | Git | Infrastructure as Code
