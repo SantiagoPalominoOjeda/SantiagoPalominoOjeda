@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Santiago 👋
 
-<!--
-**SantiagoPalominoOjeda/SantiagoPalominoOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Engineering Student  
+🌎 Lima, Peru
 
-Here are some ideas to get you started:
+I'm a Systems Engineering student interested in Cloud Computing,
+Networking, Automation, Cybersecurity and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on a multi-user Network Lab as my thesis project,
+using containers, Infrastructure as Code and cloud-native technologies.
+
+## 🚀 Currently
+
+- 🎓 Developing my thesis: Multi-user Network Laboratory (LaaS)
+- ☁️ Learning Cloud & DevOps
+- 🌐 Exploring network automation and containerized network labs
+- 🤖 Learning LLMs and AI application development
+- 🇺🇸 Improving my technical English
+
+## 🛠️ Technologies
+
+### Languages
+Python | TypeScript | Java
+
+### Cloud & DevOps
+OCI | Docker | Linux | Git | Infrastructure as Code
+
+### Networking
+Containerlab | Cisco | Nokia SR Linux | FRRouting
+
+### AI
+Machine Learning | LLMs | AI Applications
+
+## 📌 Featured Projects
+
+Coming soon...
+
+## 📫 Connect with me
+
+- LinkedIn: [Your LinkedIn]
+- GitHub: [SantiagoPalominoOjeda]
