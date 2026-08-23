@@ -37,5 +37,6 @@ Coming soon...
 
 ## 📫 Connect with me
 
-- LinkedIn: [Your LinkedIn]
-- GitHub: [SantiagoPalominoOjeda]
+- LinkedIn: www.linkedin.com/in/santiago-julián-palomino-ojeda/
+- GitHub: https://github.com/SantiagoPalominoOjeda
+- Gmail: palominosan20@gmail.com
